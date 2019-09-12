@@ -1,0 +1,71 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    margin: 80px auto;   
+}
+h1 span {
+    display: block;
+    font-size: 24px;
+    line-height: 1.5;
+}
+h1 strong {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.video {
+    margin-bottom: 30px;
+}
+form {
+    border: 5px solid #2727d9;
+    padding: 0px 15px ;
+}
+.form p {
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 30px;
+}
+.form input {
+    margin-bottom: 10px;
+    height: 50px;
+    font-size: 18px;
+}
+.form button {
+    margin-bottom: 30px;
+    background-color: #2727d9;
+    height: 65px;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 85px;
+}
+.box {
+    text-align: center;
+    height: 160px;
+}
+.box p {
+    margin-top: 15px;
+    font-size: 16px;
+}
+.btn {
+     background-color: #2727d9;
+     height: 65px;  
+}
+.button {
+    margin-top: 95px;
+}
+.img, .img-1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.img-second {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
