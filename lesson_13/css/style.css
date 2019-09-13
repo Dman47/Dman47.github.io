@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    font-family: "Arial" sans-serif;
+    font-weight: 900;
+}
+.box {
+    width: 320px;
+    height: 370px;
+    display: inline-block;
+    margin-top: 100px; 
+}
+
+.creat {
+    text-align: center;
+    width: 149px;
+    height: 21px;
+    background-color: #01b3b3;
+    margin-left: 28px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+.email {
+    width: 260px;
+    height: 30px;
+}
+p {
+    text-align: left;
+    margin-left: 27px;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.form-control {
+    margin-left: 28px;
+    margin-top: 8px;
+    font-style: italic;
+    font-weight: 300;
+    width: 260px;
+    height: 30px;
+}
+.choose {
+    margin-top: 45px;;
+}
+.confirm {
+    margin-top: -12px;
+}
+.btn {
+    text-transform: uppercase;
+    color: white;
+    background-color: #01b3b3;
+    font-size: 16px;
+    font-weight: bold;
+    width: 260px;
+    height: 45px;
+    margin-top: 35px;
+}
