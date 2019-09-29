@@ -10,4 +10,6 @@
 
 [Практика 1](https://dman47.github.io/Practice_1/) - Верстка шапки сайта
 
-[Урок -14](Dman47.github.io/Lesson_14/) - Добавление шрифтов
+[Урок 14](Dman47.github.io/Lesson_14/) - Добавление шрифтов
+
+[Практика 2](Dman47.github.io/Prectice_2/) - Верстка первого экрана
