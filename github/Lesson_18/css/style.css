@@ -1,0 +1,14 @@
+.container {
+    padding-top: 15%;
+    text-align: center;
+}
+p {
+  line-height: 1.5;
+    font-size: 17px;
+}
+.btn-modal {
+    margin-top: 15px;
+}
+button:focus {
+    outline: none !important;
+}
